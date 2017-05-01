@@ -52,6 +52,7 @@ export default class Example extends Component {
     this.state = {page:'second'};
 
 
+
     this.renderSelectedTab = this.renderSelectedTab.bind(this)
   }
 
